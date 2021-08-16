@@ -1,8 +1,8 @@
 {
-  "Nickname": "ArtisticSkyrimOverhaul+Fixes",
+  "Nickname": "Artistic Skyrim Overhaul - Exteriors Fixed",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Fixes SE specific render lighting issues.",
+  "LongDescription": "This reverts some of the additions made to the skyrim on an ESP level to fix false light rendering.",
   "PreferredAutoVersioning": "Default",
-  "RequiredMods": []
+    "RequiredMods": [ "Artistic Skyrim Overhaul - No More Reflecting Surfaces.esp" ]
 }
